@@ -1,0 +1,16 @@
+C:\Repositorios\TryCoreTestDeveloper\TryCoreTestDeveloper.DataAccess\bin\Debug\netcoreapp3.1\TryCoreTestDeveloper.DataAccess.deps.json
+C:\Repositorios\TryCoreTestDeveloper\TryCoreTestDeveloper.DataAccess\bin\Debug\netcoreapp3.1\TryCoreTestDeveloper.DataAccess.runtimeconfig.json
+C:\Repositorios\TryCoreTestDeveloper\TryCoreTestDeveloper.DataAccess\bin\Debug\netcoreapp3.1\TryCoreTestDeveloper.DataAccess.runtimeconfig.dev.json
+C:\Repositorios\TryCoreTestDeveloper\TryCoreTestDeveloper.DataAccess\bin\Debug\netcoreapp3.1\TryCoreTestDeveloper.DataAccess.dll
+C:\Repositorios\TryCoreTestDeveloper\TryCoreTestDeveloper.DataAccess\bin\Debug\netcoreapp3.1\TryCoreTestDeveloper.DataAccess.pdb
+C:\Repositorios\TryCoreTestDeveloper\TryCoreTestDeveloper.DataAccess\bin\Debug\netcoreapp3.1\TryCoreTestDeveloper.Common.dll
+C:\Repositorios\TryCoreTestDeveloper\TryCoreTestDeveloper.DataAccess\bin\Debug\netcoreapp3.1\TryCoreTestDeveloper.Common.pdb
+C:\Repositorios\TryCoreTestDeveloper\TryCoreTestDeveloper.DataAccess\obj\Debug\netcoreapp3.1\TryCoreTestDeveloper.DataAccess.csproj.AssemblyReference.cache
+C:\Repositorios\TryCoreTestDeveloper\TryCoreTestDeveloper.DataAccess\obj\Debug\netcoreapp3.1\TryCoreTestDeveloper.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\TryCoreTestDeveloper\TryCoreTestDeveloper.DataAccess\obj\Debug\netcoreapp3.1\TryCoreTestDeveloper.DataAccess.AssemblyInfoInputs.cache
+C:\Repositorios\TryCoreTestDeveloper\TryCoreTestDeveloper.DataAccess\obj\Debug\netcoreapp3.1\TryCoreTestDeveloper.DataAccess.AssemblyInfo.cs
+C:\Repositorios\TryCoreTestDeveloper\TryCoreTestDeveloper.DataAccess\obj\Debug\netcoreapp3.1\TryCoreTestDeveloper.DataAccess.csproj.CoreCompileInputs.cache
+C:\Repositorios\TryCoreTestDeveloper\TryCoreTestDeveloper.DataAccess\obj\Debug\netcoreapp3.1\TryCoreTestDeveloper.DataAccess.csproj.CopyComplete
+C:\Repositorios\TryCoreTestDeveloper\TryCoreTestDeveloper.DataAccess\obj\Debug\netcoreapp3.1\TryCoreTestDeveloper.DataAccess.dll
+C:\Repositorios\TryCoreTestDeveloper\TryCoreTestDeveloper.DataAccess\obj\Debug\netcoreapp3.1\TryCoreTestDeveloper.DataAccess.pdb
+C:\Repositorios\TryCoreTestDeveloper\TryCoreTestDeveloper.DataAccess\obj\Debug\netcoreapp3.1\TryCoreTestDeveloper.DataAccess.genruntimeconfig.cache

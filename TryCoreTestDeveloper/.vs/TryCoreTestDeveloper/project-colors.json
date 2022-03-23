@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "776d20c1-9e94-4a7a-a511-ca46a5c0808b": {
+      "ProjectGuid": "776d20c1-9e94-4a7a-a511-ca46a5c0808b",
+      "DisplayName": "TryCoreTestDeveloper",
+      "ColorIndex": 0
+    },
+    "c27ed3e7-43d8-444f-8201-d4da444acda7": {
+      "ProjectGuid": "c27ed3e7-43d8-444f-8201-d4da444acda7",
+      "DisplayName": "TryCoreTestDeveloper.Common",
+      "ColorIndex": 1
+    },
+    "10566f5b-630e-47d6-827d-121c507a478a": {
+      "ProjectGuid": "10566f5b-630e-47d6-827d-121c507a478a",
+      "DisplayName": "TryCoreTestDeveloper.DataAccess",
+      "ColorIndex": 2
+    },
+    "4e84a1ca-8315-485a-87dd-ab3ab90a913e": {
+      "ProjectGuid": "4e84a1ca-8315-485a-87dd-ab3ab90a913e",
+      "DisplayName": "TryCoreTestDeveloper.Services",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

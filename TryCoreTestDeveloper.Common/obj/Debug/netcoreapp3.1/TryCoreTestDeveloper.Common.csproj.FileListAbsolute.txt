@@ -1,0 +1,10 @@
+C:\Repositorios\TryCoreTestDeveloper\TryCoreTestDeveloper.Common\bin\Debug\netcoreapp3.1\TryCoreTestDeveloper.Common.deps.json
+C:\Repositorios\TryCoreTestDeveloper\TryCoreTestDeveloper.Common\bin\Debug\netcoreapp3.1\TryCoreTestDeveloper.Common.dll
+C:\Repositorios\TryCoreTestDeveloper\TryCoreTestDeveloper.Common\bin\Debug\netcoreapp3.1\TryCoreTestDeveloper.Common.pdb
+C:\Repositorios\TryCoreTestDeveloper\TryCoreTestDeveloper.Common\obj\Debug\netcoreapp3.1\TryCoreTestDeveloper.Common.csproj.AssemblyReference.cache
+C:\Repositorios\TryCoreTestDeveloper\TryCoreTestDeveloper.Common\obj\Debug\netcoreapp3.1\TryCoreTestDeveloper.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\TryCoreTestDeveloper\TryCoreTestDeveloper.Common\obj\Debug\netcoreapp3.1\TryCoreTestDeveloper.Common.AssemblyInfoInputs.cache
+C:\Repositorios\TryCoreTestDeveloper\TryCoreTestDeveloper.Common\obj\Debug\netcoreapp3.1\TryCoreTestDeveloper.Common.AssemblyInfo.cs
+C:\Repositorios\TryCoreTestDeveloper\TryCoreTestDeveloper.Common\obj\Debug\netcoreapp3.1\TryCoreTestDeveloper.Common.csproj.CoreCompileInputs.cache
+C:\Repositorios\TryCoreTestDeveloper\TryCoreTestDeveloper.Common\obj\Debug\netcoreapp3.1\TryCoreTestDeveloper.Common.dll
+C:\Repositorios\TryCoreTestDeveloper\TryCoreTestDeveloper.Common\obj\Debug\netcoreapp3.1\TryCoreTestDeveloper.Common.pdb

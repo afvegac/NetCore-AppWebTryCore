@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sXvusVhSprsKoF3CBy0kdPSgtOcAJrpOT2Js5olChirf/KD9xfBni54LFYF3/FF2V2HtWUKv0Mle5R24pDCN5w==",
+  "success": true,
+  "projectFilePath": "C:\\Repositorios\\TryCoreTestDeveloper\\TryCoreTestDeveloper.Common\\TryCoreTestDeveloper.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Felipe vega\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Felipe vega\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Felipe vega\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

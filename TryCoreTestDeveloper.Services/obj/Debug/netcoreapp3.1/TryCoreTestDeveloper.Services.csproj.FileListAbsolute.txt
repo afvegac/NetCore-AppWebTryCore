@@ -1,0 +1,15 @@
+C:\Repositorios\TryCoreTestDeveloper\TryCoreTestDeveloper.Services\bin\Debug\netcoreapp3.1\TryCoreTestDeveloper.Services.deps.json
+C:\Repositorios\TryCoreTestDeveloper\TryCoreTestDeveloper.Services\bin\Debug\netcoreapp3.1\TryCoreTestDeveloper.Services.dll
+C:\Repositorios\TryCoreTestDeveloper\TryCoreTestDeveloper.Services\bin\Debug\netcoreapp3.1\TryCoreTestDeveloper.Services.pdb
+C:\Repositorios\TryCoreTestDeveloper\TryCoreTestDeveloper.Services\bin\Debug\netcoreapp3.1\TryCoreTestDeveloper.Common.dll
+C:\Repositorios\TryCoreTestDeveloper\TryCoreTestDeveloper.Services\bin\Debug\netcoreapp3.1\TryCoreTestDeveloper.DataAccess.dll
+C:\Repositorios\TryCoreTestDeveloper\TryCoreTestDeveloper.Services\bin\Debug\netcoreapp3.1\TryCoreTestDeveloper.Common.pdb
+C:\Repositorios\TryCoreTestDeveloper\TryCoreTestDeveloper.Services\bin\Debug\netcoreapp3.1\TryCoreTestDeveloper.DataAccess.pdb
+C:\Repositorios\TryCoreTestDeveloper\TryCoreTestDeveloper.Services\obj\Debug\netcoreapp3.1\TryCoreTestDeveloper.Services.csproj.AssemblyReference.cache
+C:\Repositorios\TryCoreTestDeveloper\TryCoreTestDeveloper.Services\obj\Debug\netcoreapp3.1\TryCoreTestDeveloper.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\TryCoreTestDeveloper\TryCoreTestDeveloper.Services\obj\Debug\netcoreapp3.1\TryCoreTestDeveloper.Services.AssemblyInfoInputs.cache
+C:\Repositorios\TryCoreTestDeveloper\TryCoreTestDeveloper.Services\obj\Debug\netcoreapp3.1\TryCoreTestDeveloper.Services.AssemblyInfo.cs
+C:\Repositorios\TryCoreTestDeveloper\TryCoreTestDeveloper.Services\obj\Debug\netcoreapp3.1\TryCoreTestDeveloper.Services.csproj.CoreCompileInputs.cache
+C:\Repositorios\TryCoreTestDeveloper\TryCoreTestDeveloper.Services\obj\Debug\netcoreapp3.1\TryCoreTestDeveloper.Services.csproj.CopyComplete
+C:\Repositorios\TryCoreTestDeveloper\TryCoreTestDeveloper.Services\obj\Debug\netcoreapp3.1\TryCoreTestDeveloper.Services.dll
+C:\Repositorios\TryCoreTestDeveloper\TryCoreTestDeveloper.Services\obj\Debug\netcoreapp3.1\TryCoreTestDeveloper.Services.pdb
